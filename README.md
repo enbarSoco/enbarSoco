@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm Enbar. Fourth year software engineering student</h3>
 
 - 📫 How to reach me: **enbar2232@gmail.com**
